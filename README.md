@@ -27,14 +27,16 @@ Run the bash script
 ```
 
 You can connect to the first level of bandit using the following details
+___
 ```console
-"What is the Bandit User (Level Number)
+What is the Bandit User (Level Number)
 ```
-0
+- 0
 ```console
 What is the password?
 ```
-bandit0
+- bandit0
+___
 
 This should succesffully log you in to the first level of Bandit OverTheWire. After copying the flag to your clipboard, you can press on CTRL+D or type exit to disconnect from the SSH session, taking you back to executing commands from your terminal as your logged in user
 
