@@ -12,7 +12,7 @@ sudo apt install sshpass
 and then give the script execution permissions
 
 ```console
-cd /path/to/bandit.sh
+cd banditomatic
 chmod +x bandit.sh
 ```
 
