@@ -23,7 +23,7 @@ After going throught the setup steps above, clone the whole repo or just the bas
 
 Run the bash script
 ```console
-./bandit.sh
+ bash bandit.sh
 ```
 
 You can connect to the first level of bandit using the following details
